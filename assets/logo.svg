@@ -1,4 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 135" role="img" aria-labelledby="title desc">
-<title id="title">Lowell Contracting</title><desc id="desc">House and tools logo</desc>
-<g fill="none" stroke="#0c1d32" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="M22 73 84 20l63 53"/><path d="M39 62v50h91V62"/><path d="M75 112V78h22v34"/><path d="M106 35h24v21"/><path d="m20 103 31-31"/><path d="m18 101 16 16"/><path d="m137 101-31-31"/></g><path d="M18 99h42l-10 12H28z" fill="#147fc1"/><text x="170" y="72" font-family="Impact,Arial Narrow,sans-serif" font-size="71" letter-spacing="2" fill="#0c1d32">LOWELL</text><text x="174" y="112" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="9" fill="#147fc1">CONTRACTING</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 170" role="img" aria-labelledby="title desc">
+<title id="title">Lowell Contracting</title><desc id="desc">House outline with hammer, hard hat, ruler, square and wrench</desc>
+<g transform="translate(8 5)">
+<g fill="none" stroke="#0c1d32" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+<path d="M42 84 111 24l70 60v66H42z"/><path d="M59 75v75M163 75v75"/></g>
+<path d="M58 148V80l20-17v85z" fill="#8b7358"/><g stroke="#fff" stroke-width="2.5"><path d="M62 88h13M62 99h9M62 110h13M62 121h9M62 132h13"/></g>
+<path d="M131 146h43V93z" fill="#8b7358"/><path d="M145 132h17v-18z" fill="#fff"/><g stroke="#fff" stroke-width="2"><path d="M140 142v-7M148 142v-5M156 142v-7M164 142v-5"/></g>
+<g fill="#8b7358"><rect x="96" y="84" width="14" height="14"/><rect x="114" y="84" width="14" height="14"/><rect x="96" y="102" width="14" height="14"/><rect x="114" y="102" width="14" height="14"/></g>
+<path d="M82 145h22c2-10 8-15 17-15s15 5 18 15h36v11h-38c-4 9-10 13-18 13s-14-4-18-13H82z" fill="#0c1d32"/>
+<g fill="#0c1d32"><path d="M46 38c0-15 12-27 27-27h23v12H78c-7 0-12 4-14 10h17v28H66V38z"/><rect x="66" y="55" width="15" height="24"/></g>
+<g transform="translate(128 5) rotate(28 25 24)" fill="#0c1d32"><path d="M3 34A31 31 0 0 1 59 34z"/><rect x="0" y="34" width="62" height="9" rx="3"/></g><g stroke="#fff" stroke-width="3"><path d="M148 15l-7 20M162 18l-7 22M176 25l-8 20"/></g>
+<path d="M18 101 58 69" stroke="#8b7358" stroke-width="6" stroke-linecap="round"/><path d="m24 94 4 13M40 81l4 13" stroke="#8b7358" stroke-width="4"/>
+</g>
+<text x="220" y="88" font-family="Impact,Arial Narrow,sans-serif" font-size="78" letter-spacing="2" fill="#0c1d32">LOWELL CONTRACTING</text>
+<g fill="#8b7358"><rect x="224" y="119" width="75" height="3"/><rect x="1050" y="119" width="75" height="3"/></g>
+<text x="320" y="130" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="7" fill="#8b7358">BUILT RIGHT. BUILT TO LAST.</text>
 </svg>
