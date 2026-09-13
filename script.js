@@ -29,5 +29,5 @@ form.addEventListener('submit', event => {
   const body = encodeURIComponent(
 `Name: ${data.get('name')}\nPhone: ${data.get('phone')}\nEmail: ${data.get('email')}\nProject type: ${data.get('project')}\n\nProject details:\n${data.get('details')}`
   );
-  window.location.href = `mailto:brycelowell21@gmail.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:LowellContracting@gmail.com?subject=${subject}&body=${body}`;
 });
